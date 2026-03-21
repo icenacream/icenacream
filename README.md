@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=f8f8ff&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=f8f8ff&center=true&vCenter=true&width=700&lines=RASH+IAN+SINAG;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
 
 ---
-
-### 👨‍💻 About Me
 
 ### 👨‍💻 About Me
 
