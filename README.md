@@ -6,9 +6,16 @@
 
 ### 👨‍💻 About Me
 
-🎓 2nd Year - Bachelor of Science in Information Technology  
-🏫 Technological University of the Philippines  
+### 👨‍💻 About Me
 
+**Rash Ian Sinag**
+🎓 2nd Year — Bachelor of Science in Information Technology
+🏫 Technological University of the Philippines
+
+- 🔭 Currently working on personal web and game projects
+- 📚 Currently learning React, Firebase, and JavaScript
+- 📱 Interested in Web, Game, and Mobile Development
+- 🤝 Looking for internship opportunities
   
 ---
 
@@ -27,6 +34,9 @@
 ### ⚙️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
