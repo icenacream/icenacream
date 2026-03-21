@@ -70,6 +70,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=1500&pause=500&color=663399&center=true&vCenter=true&width=700&lines=ML,+Fishport,+Aral,+Kain,+Tulog)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=1500&pause=500&color=fff0f5&center=true&vCenter=true&width=700&lines=ML,+FISHPORT,+ARAL,+KAIN,+TULOG)](https://git.io/typing-svg)
 
 </div>
