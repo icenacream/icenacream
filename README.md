@@ -4,11 +4,10 @@
 
 </div>
 
-
 ---
 
 ## 👨‍💻 About Me
-🎓 2nd Year — Bachelor of Science in Information Technology  
+🎓 2nd Year - Bachelor of Science in Information Technology  
 🏫 Technological University of the Philippines  
 
 - 🔭 Working on personal web and game projects  
@@ -20,7 +19,7 @@
 ## 🛠️ Languages
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="50" height="50" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
@@ -47,7 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
 
 </div>
-
 
 ---
 
