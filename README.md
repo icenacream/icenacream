@@ -62,4 +62,7 @@
 
 ---
 
-<sub align="center">Made with ❤️ in Navotas</sub>
+<div align="center>
+  <sub>Made with ❤️ in Navotas</sub>
+</div>
+
