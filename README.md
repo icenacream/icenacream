@@ -1,7 +1,7 @@
 <!-- Intro Section -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=f8f8ff&center=true&vCenter=true&width=700&lines=RASH+IAN+SINAG;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
+#RASH IAN B. SINAG
 
 </div>
 
@@ -14,7 +14,6 @@
 - 🔭 Working on personal web and game projects  
 - 📚 Learning React, Firebase, and JavaScript  
 - 📱 Interested in Web, Game, and Mobile Development  
-- 🤝 Looking for internship opportunities  
 
 ---
 
@@ -65,5 +64,13 @@
 
 <div align="center">
   <sub>Made with ❤️ in Navotas</sub>
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&lines=ML;Fishport;Aral;Kain;Tulog)](https://git.io/typing-svg)
+
 </div>
 
