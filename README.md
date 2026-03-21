@@ -1,6 +1,6 @@
 <div align="center">
 
-#### RASH IAN SINAG
+# RASH IAN SINAG
 
 </div>
 
