@@ -20,7 +20,7 @@
 ## 🛠️ Languages
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="50" height="50" title="C"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="50" height="50" title="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
