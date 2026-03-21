@@ -62,7 +62,7 @@
 
 ---
 
-<div align="center>
+<div align="center">
   <sub>Made with ❤️ in Navotas</sub>
 </div>
 
