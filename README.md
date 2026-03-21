@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
 
 ---
 
