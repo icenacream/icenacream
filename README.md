@@ -1,7 +1,7 @@
 <!-- Intro Section -->
 <div align="center">
 
-#RASH IAN B. SINAG
+# RASH IAN B. SINAG
 
 </div>
 
@@ -70,12 +70,6 @@
 
 <div align="center">
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1500&pause=500&color=2ea44f&center=true&vCenter=true&width=600&lines=ML;Fishport;Aral;Kain;Tulog)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=1500&pause=500&color=2ea44f&center=true&vCenter=true&width=700&lines=ML,+Fishport,+Aral,+Kain,+Tulog)](https://git.io/typing-svg)
 
 </div>
-
-
-</div>
-
