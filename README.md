@@ -63,13 +63,14 @@
 ---
 
 <div align="center">
-  <sub>Made with ❤️ in Navotas</sub>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=2500&pause=500&color=fff0f5&center=true&vCenter=true&width=700&lines=ML.+Fishport.+Aral.+Kain.+Tulog.+Repeat)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=1500&pause=500&color=fff0f5&center=true&vCenter=true&width=700&lines=ML,+FISHPORT,+ARAL,+KAIN,+TULOG)](https://git.io/typing-svg)
-
+  <sub>Made with ❤️ in Navotas</sub>
 </div>
+
