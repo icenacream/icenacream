@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 🎓 2nd Year - Bachelor of Science in Information Technology  
-🏫 Technological University of the Philippines  
+🏫 Technological University of the Philippines - Manila
 
 - 🔭 Working on personal web and game projects  
 - 📚 Learning React, Firebase, and JavaScript  
