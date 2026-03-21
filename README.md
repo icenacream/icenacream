@@ -7,6 +7,7 @@
 ### 👨‍💻 About Me
 
 **Rash Ian Sinag**
+
 🎓 2nd Year — Bachelor of Science in Information Technology
 🏫 Technological University of the Philippines
 
