@@ -1,26 +1,37 @@
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rash+Ian+%F0%9F%91%8B;2nd+Year+IT+Student+%F0%9F%8E%93;Web+%26+Game+Developer+%F0%9F%8E%AE;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rash+Ian+%F0%9F%91%8B;2nd+Year+BSIT+Student+%F0%9F%8E%93;Web+%26+Game+Developer+%F0%9F%8E%AE;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍💻 About Me / Tungkol Sa Akin
+### 👨‍💻 About Me
 
-🎓 2nd Year IT Student from the Philippines 🇵🇭  
+**Rash Ian Sinag**  
+🎓 2nd Year — Bachelor of Science in Information Technology  
+🏫 Technological University of the Philippines  
+🇵🇭 Proud Filipino Developer  
 💻 Building projects to learn and grow  
-🎮 Loves web dev and game dev  
-🚀 Currently learning React, Firebase, and JavaScript  
-☕ Fueled by coffee and deadlines  
+🎮 Passionate about Web Dev and Game Dev  
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Languages
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Tools
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -28,7 +39,7 @@
 
 ---
 
-### 🚀 Projects / Mga Proyekto
+### 🚀 Projects
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
@@ -44,16 +55,6 @@
 
 ---
 
-### ⚡ Fun Facts / Mga Katotohanan
-
-- 🎮 I made a tower defense game as a portfolio project
-- 📱 I track my school deadlines with an app I built myself
-- 🇵🇭 Proud Filipino developer
-- 🌙 Best coding hours: 10pm - 2am
-- 🐛 My debugging process: `console.log` everything
-
----
-
 ### 👀 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/icenacream/count.svg)
@@ -63,18 +64,3 @@
 <sub>Made with ❤️ from the Philippines 🇵🇭</sub>
 
 </div>
-```
-
----
-
-### How to update it:
-1. Go to `github.com/icenacream/icenacream`
-2. Click the pencil ✏️ icon to edit
-3. Select all → paste the code above
-4. Click **"Commit changes"**
-
----
-
-Then visit your profile at:
-```
-github.com/icenacream
