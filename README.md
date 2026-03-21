@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 2nd Year — Bachelor of Science in Information Technology  
+🎓 2nd Year - Bachelor of Science in Information Technology  
 🏫 Technological University of the Philippines  
 
   
@@ -37,13 +37,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 🚀 Projects
-
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| ☢️ Last Stand: Zero Hour | Post-apocalyptic tower defense game | HTML Canvas, JS, CSS | [Play](https://icenacream.github.io/last-stand) |
-| 📋 Application Tracker | Track job & scholarship applications | React, Firebase, EmailJS | [View](https://tracker-app-ecru.vercel.app) |
 
 ---
 
