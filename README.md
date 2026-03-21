@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=f8f8ff&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=icenacream&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0a500&icon_color=f0a500&text_color=ffffff" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icenacream&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0a500&text_color=ffffff" width="48%" />
