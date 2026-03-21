@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rash+Ian+%F0%9F%91%8B;2nd+Year+BSIT+Student+%F0%9F%8E%93;Web+%26+Game+Developer+%F0%9F%8E%AE;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rash+Ian+Sinag;BS+Information+Technology;Technological+University+of+the+Philippines)](https://git.io/typing-svg)
 
 ---
 
@@ -9,10 +9,8 @@
 **Rash Ian Sinag**  
 🎓 2nd Year — Bachelor of Science in Information Technology  
 🏫 Technological University of the Philippines  
-🇵🇭 Proud Filipino Developer  
-💻 Building projects to learn and grow  
-🎮 Passionate about Web Dev and Game Dev  
 
+  
 ---
 
 ### 🛠️ Languages
@@ -33,6 +31,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,14 +53,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=icenacream&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0a500&icon_color=f0a500&text_color=ffffff" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icenacream&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0a500&text_color=ffffff" width="48%" />
 
----
-
-### 👀 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/icenacream/count.svg)
 
 ---
 
-<sub>Made with ❤️ from the Philippines 🇵🇭</sub>
+<sub>Made with ❤️ from the Navotas</sub>
 
 </div>
