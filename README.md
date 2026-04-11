@@ -52,10 +52,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=icenacream&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icenacream&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icenacream&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
