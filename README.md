@@ -49,15 +49,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=icenacream&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icenacream&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=ffffff" width="48%" />
-
-</div>
-
 ---
 
 <div align="center">
